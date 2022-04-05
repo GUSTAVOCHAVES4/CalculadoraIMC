@@ -5,6 +5,8 @@ Aplicação console para cálculo do IMC
 ## Funcionalidades
 
 - Calcula e apresenta o IMC
+- Mostra a faixa de IMC do usuário
+- Calcula a quantidade necessária para chegar ao peso ideal, caso o IMC estiver muito acima ou abaixo da média
 
 ## Tecnologias utilizadas
 
